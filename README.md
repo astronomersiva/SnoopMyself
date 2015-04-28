@@ -2,10 +2,12 @@
 
 Analyse your browser history and display your most visited sites as a graph.
 
-###Requirements:
+###Requirements
 
-*numpy
-*matplotlib
-*urlparse
+* numpy
+* matplotlib
+* urlparse
 
-![Sample Output]https://github.com/astronomersiva/SnoopMyself/blob/master/sample.png
+
+
+
